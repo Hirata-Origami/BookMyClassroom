@@ -40,32 +40,6 @@ Check out the live app [here](https://bookmyclassroom.kesug.com/).
 ### Configuration:
 - Update the database credentials in `includes/config.php` to match your MySQL configuration.
 
-
-## File Structure
-├── admin
-│   ├── acc-setting.php            # Admin account settings
-│   ├── add-courses.php            # Add new courses
-│   ├── add-rooms.php              # Add new rooms
-│   ├── bookings.php               # Manage room bookings
-│   ├── check-availability.php     # Check room availability
-│   ├── counters                   # Various counters like student count, room count
-│   ├── dashboard.php              # Admin dashboard
-│   ├── edit-courses.php           # Edit courses
-│   ├── edit-room.php              # Edit room details
-│   ├── includes                   # Common includes like navigation, sidebar
-│   ├── index.php                  # Admin login page
-│   ├── logout.php                 # Admin logout
-│   ├── manage-rooms.php           # Manage room details
-│   ├── profile.php                # Admin profile management
-│   └── view-students-acc.php      # View student accounts
-├── assets
-│   ├── images                     # Project images like logo, backgrounds, etc.
-│   ├── libs                       # JavaScript and CSS libraries like Bootstrap, jQuery
-│   └── extra-libs                 # Additional libraries for charts, tables, etc.
-├── dist                           # Distribution folder with compiled CSS/JS files
-└── index.php                      # Main landing page for the system
-...
-
 ## Example Images
 
 ### Login
