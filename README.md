@@ -60,4 +60,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 For any inquiries, feel free to reach out:
 - Author: Bharath Pranav
 - Email: bharathpranav91@gmail.com
-- Live Demo: [Streamlit App](https://bharathpranav.streamlit.app/)
+- Live Demo: [here](https://bookmyclassroom.kesug.com/)
